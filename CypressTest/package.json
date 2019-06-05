@@ -1,0 +1,15 @@
+{
+  "name": "cypresstest",
+  "version": "1.0.0",
+  "description": "\"sample cypress test\",",
+  "main": ",",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.3.1"
+  },
+  "scripts": {
+    "test": "\"test\""
+  },
+  "author": "etrevino",
+  "license": "ISC"
+}
